@@ -1,11 +1,22 @@
 {
   "name": "spa-demo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "gaoyimei0721",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaoyimei0721/spa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gaoyimei0721/spa/issues"
+  },
+  "homepage": "https://github.com/gaoyimei0721/spa#readme",
+  "description": "",
+  "devDependencies": {                      
+    "gitbook-cli": "^2.3.2"                                                           
+  }
 }
