@@ -1,4 +1,17 @@
 body, html{
-  width: 100%;
   height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.main{
+  padding: 30px;
+}
+
+i{
+  bottom: 39px;
+  color: #fff;
+  left:96%;
+  position: relative;
 }
